@@ -1,0 +1,34 @@
+add Tom Shampoo
+add Tom Toothpaste
+add Sally Book
+add Sally Laptop
+add Sally Printer
+add Harry Headphones
+delete Ben Video
+add Ben Video
+delete Ben Video
+checkout Ben
+add Valerie Dress
+add Jim Cereal
+add Jim Milk
+add Jim Shirt
+view Jim
+checkout Jim
+add Ben Video
+add Ben Guitar
+add Sally Shoes
+add Sally Book
+add Sally Detergent
+view Sally
+checkout Sally
+add Tom Vespa
+view Tom
+add Tom Shampoo
+checkout Tom
+add Gloria Sofa
+add Gloria Jeans
+checkout Gloria
+view Ben
+checkout Ben
+view Tom
+checkout Tom
